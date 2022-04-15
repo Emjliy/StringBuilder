@@ -1,0 +1,14 @@
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.exe
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.deps.json
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.json
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.runtimeconfig.dev.json
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\bin\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.AssemblyReference.cache
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.AssemblyInfo.cs
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.dll
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.pdb
+C:\Users\Emilia\Desktop\MyAllProjects\StringBuilder\StringBuilder\obj\Debug\netcoreapp3.1\StringBuilder.genruntimeconfig.cache
